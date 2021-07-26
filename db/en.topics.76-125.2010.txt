@@ -1,0 +1,31 @@
+<topics>
+
+<top lang='en'>
+<num>0</num>
+<title>Clashes between the Gurjars and Meenas</title>
+<desc>
+Reasons behind the protests by Meena leaders against the
+inclusion of Gurjars in the Scheduled Tribes.
+</desc>
+<narr>
+The Gurjars are agitating in order to attain the status of a
+Scheduled Tribe. Leaders belonging to the Meena sect have
+been vigorously opposing this move. What are the main reasons 
+behind the Meenas' opposition? A relevant document should
+mention the root cause(s) behind the conflict between these
+two sects.
+</narr>
+</top>
+
+<top lang='en'>
+<num>1</num>
+<title>Attacks by Hezbollah guerrillas</title>
+<desc>
+Attacks by Hezbollah guerrillas on Indian and Israeli forces.
+</desc>
+<narr>
+A relevant document should provide information about attacks
+by Hezbollah guerrillas on Indian and Israeli peace keeping
+troops stationed in Israel.
+</narr>
+</top>
